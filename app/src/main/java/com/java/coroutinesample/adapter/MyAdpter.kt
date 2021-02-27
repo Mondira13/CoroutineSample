@@ -1,4 +1,4 @@
-package com.java.coroutinesample
+package com.java.coroutinesample.adapter
 
 import android.view.LayoutInflater
 import android.view.View
@@ -7,6 +7,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.fragment.app.FragmentActivity
 import androidx.recyclerview.widget.RecyclerView
+import com.java.coroutinesample.R
 import com.java.coroutinesample.model.DataModel
 
 class MyAdpter(activity: FragmentActivity?, beautyAndSpa: List<DataModel>) :

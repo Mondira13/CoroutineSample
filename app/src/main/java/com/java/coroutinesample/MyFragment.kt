@@ -8,6 +8,7 @@ import android.view.ViewGroup
 import androidx.lifecycle.lifecycleScope
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.java.coroutinesample.adapter.MyAdpter
 import com.java.coroutinesample.model.DataModel
 import com.java.coroutinesample.model.DataResponse
 import com.java.coroutinesample.network.MyApi
